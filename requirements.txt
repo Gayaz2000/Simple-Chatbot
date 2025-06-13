@@ -1,0 +1,10 @@
+langgraph
+langchain-groq
+langchain-community
+langchain-core
+python-dotenv
+#ipykernel
+pypdf
+duckduckgo-search
+fastapi
+streamlit
